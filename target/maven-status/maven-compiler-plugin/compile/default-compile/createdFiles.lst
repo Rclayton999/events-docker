@@ -1,0 +1,17 @@
+com\revature\repositories\EventRepository.class
+com\revature\entities\UserRole.class
+com\revature\entities\User_First_Last_Dto.class
+com\revature\controllers\UserController.class
+com\revature\repositories\UserEventRepository.class
+com\revature\services\EventService.class
+com\revature\services\UserService.class
+com\revature\Application.class
+com\revature\entities\Event.class
+com\revature\entities\User_Event.class
+com\revature\util\CorsAdvisor.class
+com\revature\entities\User_Event_DTO.class
+com\revature\controllers\EventController.class
+com\revature\entities\User.class
+com\revature\repositories\UserRepository.class
+com\revature\util\ExceptionAdvisor.class
+com\revature\entities\User_Event_ID.class

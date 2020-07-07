@@ -1,0 +1,17 @@
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\controllers\EventController.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\repositories\UserRepository.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\services\EventService.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\util\CorsAdvisor.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\Event.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\repositories\UserEventRepository.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\User_Event_ID.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\User_First_Last_Dto.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\repositories\EventRepository.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\services\UserService.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\util\ExceptionAdvisor.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\controllers\UserController.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\User.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\Application.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\User_Event_DTO.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\UserRole.java
+C:\Users\RClay\eclipse-workspace\Team-1-project-2\server\events\src\main\java\com\revature\entities\User_Event.java
